@@ -26,7 +26,7 @@ def step_4():
     print("步骤4")
 
 
-# @allure.feature("功能点：编辑文章分类页面")
+
 @allure.MASTER_HELPER.feature("功能点：编辑文章分类页面")
 class TestDemo():
 
