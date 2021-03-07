@@ -1,9 +1,0 @@
-连接你的数据库，清理数据
-正在定位元素信息：定位方式->xpath,value值->//*[@href="/xadmin/hello/articleclassify/"]
-正在定位元素信息：定位方式->xpath,value值->//*[@id="content-block"]/div[1]/div[2]/div/a
-正在定位元素信息：定位方式->xpath,value值->//*[@id="id_n"]
-正在定位元素信息：定位方式->xpath,value值->//*[@id="articleclassify_form"]/div[2]/button/i
-正在定位元素信息：定位方式->xpath,value值->//*[@id="content-block"]/div[2]
-获取到元素的文本内容：×
-文章分类 "文章分类->yingwen" 添加成功。
-True
